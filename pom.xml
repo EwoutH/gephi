@@ -226,7 +226,7 @@
 
         <gephi.maven-jarsigner-plugin.version>3.0.0</gephi.maven-jarsigner-plugin.version>
 
-        <gephi.maven-javadoc-plugin.version>3.3.1</gephi.maven-javadoc-plugin.version> 
+        <gephi.maven-javadoc-plugin.version>3.3.2</gephi.maven-javadoc-plugin.version> 
 
         <gephi.maven-license-plugin.version>1.9.0</gephi.maven-license-plugin.version>
 
