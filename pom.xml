@@ -210,7 +210,7 @@
 
         <gephi.maven-clean-plugin.version>3.1.0</gephi.maven-clean-plugin.version>
 
-        <gephi.maven-compiler-plugin.version>3.8.1</gephi.maven-compiler-plugin.version>
+        <gephi.maven-compiler-plugin.version>3.10.1</gephi.maven-compiler-plugin.version>
 
         <gephi.maven-dependency-plugin.version>3.2.0</gephi.maven-dependency-plugin.version>
 
