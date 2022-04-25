@@ -234,7 +234,7 @@
 
         <gephi.maven-resources-plugin.version>3.2.0</gephi.maven-resources-plugin.version>
 
-        <gephi.maven-site-plugin.version>3.9.1</gephi.maven-site-plugin.version>
+        <gephi.maven-site-plugin.version>3.12.0</gephi.maven-site-plugin.version>
 
         <gephi.maven-source-plugin.version>3.2.1</gephi.maven-source-plugin.version>
 
